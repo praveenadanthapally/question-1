@@ -154,8 +154,3 @@ Node.js executes JavaScript on a single main thread but uses background threads 
 - Event loop coordinates task execution efficiently.
 
 ---
-
-## GitHub Submission
-
-📌 **GitHub Repository Link:**  
-(Add your GitHub repo link here)
